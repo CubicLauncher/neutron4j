@@ -14,13 +14,15 @@ public class Main {
             Launcher.launch(
                     "1.21.5",
                     "xd",
-                    "l",
+                    "melasrosca",
                     "C:/Program Files/Java/jdk-23/bin/java.exe",
                     "2G",
                     "6G",
                     442,
                     842,
-                    true
+                    true,
+                    Launcher.ModLoader.FABRIC,
+                    "0.16.13"
             );
     }
 }
